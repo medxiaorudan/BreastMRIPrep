@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "bmri-prep, preprocessing pipeline for breast MRI data for deep-learning applications."
